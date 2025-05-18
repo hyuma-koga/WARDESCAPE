@@ -1,0 +1,41 @@
+# Unity用 .gitignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+*.tmp
+
+# アセットパックなど大容量除外
+Assets/Resorce/
+Assets/Military/
+Assets/SciFi Warehouse Kit/
+Assets/RPG_FPS_game_assets_industrial/
+Assets/ToolboxAssets/
+Assets/Standard Assets/
+Assets/MoCapCentral/
+Assets/_Heathen Engineering/
+Assets/Recording/
+Assets/Multistory Dungeons 2/
+Assets/PaperMaterial/
+Assets/Audio/
+Assets/TitleUI/
+Assets/TextMesh Pro
+Assets/Materials
+Assets/TestMap
+Assets/Editor
+Assets/HorrorHospitalPackFJM.unitypackage
+Assets/ToolboxAsset/ToolBox.unitypackage
