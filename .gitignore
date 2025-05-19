@@ -39,3 +39,5 @@ Assets/TestMap
 Assets/Editor
 Assets/HorrorHospitalPackFJM.unitypackage
 Assets/ToolboxAsset/ToolBox.unitypackage
+# --- LFS対象のファイルだけ例外で許可 ---
+!Assets/Audio/*.wav
