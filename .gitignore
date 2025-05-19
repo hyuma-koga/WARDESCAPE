@@ -1,4 +1,6 @@
-# Unity用 .gitignore
+# -------------------------
+# Unity標準ゴミ除外
+# -------------------------
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -8,7 +10,9 @@
 MemoryCaptures/
 UserSettings/
 
-# IDE / OS
+# -------------------------
+# IDE・OS一時ファイル
+# -------------------------
 .vscode/
 .DS_Store
 Thumbs.db
@@ -19,26 +23,58 @@ Thumbs.db
 *.suo
 *.tmp
 
-# アセットパックなど大容量除外
-Assets/Resorce/
-Assets/Military/
-Assets/SciFi Warehouse Kit/
-Assets/RPG_FPS_game_assets_industrial/
-Assets/ToolboxAssets/
-Assets/Standard Assets/
-Assets/MoCapCentral/
-Assets/_Heathen Engineering/
+# -------------------------
+# 不要なアセットフォルダ除外（個別指定）
+# -------------------------
 Assets/Recording/
-Assets/Multistory Dungeons 2/
-Assets/PaperMaterial/
-Assets/Audio/
-Assets/TitleUI/
-Assets/TextMesh Pro
-Assets/Materials
-Assets/TestMap
-Assets/Editor
+Assets/_Heathen Engineering/Samples/
+Assets/Editor/
+Assets/Military/Floor/
+Assets/Military/Materials HDRP/
+Assets/Military/Prefab/HDRP/
+Assets/Resorce/[Free]Phone/DemoScene/
+Assets/Resorce/chestFree/
+Assets/Resorce/Dnk_Dev/HospitalHorrorPack/Map_Hosp1/
+Assets/Resorce/Flashlight/
+Assets/Resorce/HorrorHospitalPack/DemoScene/
+Assets/TestMap/
+Assets/SciFi Warehouse Kit/Demo/
 Assets/HorrorHospitalPackFJM.unitypackage
 Assets/ToolboxAsset/ToolBox.unitypackage
-# --- LFS対象のファイルだけ例外で許可 ---
+
+# -------------------------
+# 必要アセットを含むフォルダは追跡
+# -------------------------
+!Assets/
 !Assets/Audio/
-!Assets/Audio/*.wav
+!Assets/Models/
+!Assets/Textures/
+!Assets/Scenes/
+!Assets/Scripts/
+!Assets/Prefabs/
+
+# -------------------------
+# 特定拡張子（LFS管理用）を明示的に許可
+# -------------------------
+!Assets/**/*.wav
+!Assets/**/*.mp3
+!Assets/**/*.fbx
+!Assets/**/*.psd
+!Assets/**/*.exr
+!Assets/**/*.png
+!Assets/**/*.jpg
+!Assets/**/*.mat
+!Assets/**/*.anim
+!Assets/**/*.controller
+!Assets/**/*.cs
+!Assets/**/*.unity
+!Assets/**/*.prefab
+!Assets/**/*.meta
+
+# -------------------------
+# 誤って除外されている可能性のあるもの
+# -------------------------
+!Assets/TextMesh Pro/
+!Assets/TitleUI/
+!Assets/RPG_FPS_game_assets_industrial/
+!Assets/Standard Assets/
