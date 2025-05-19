@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Unity\\Mind Loop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|D:\\Unity\\Mind Loop\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|d:\\unity\\mind loop\\assets\\script\\eventsystem\\selfdestructifduplicateeventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsystem\\selfdestructifduplicateeventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|d:\\unity\\mind loop\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\gameintromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|d:\\unity\\mind loop\\assets\\script\\ui\\hintuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|D:\\Unity\\Mind Loop\\assets\\script\\ui\\hintuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\hintuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|d:\\unity\\mind loop\\assets\\script\\manager\\optionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|D:\\Unity\\Mind Loop\\assets\\script\\manager\\optionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B640CE63-FFE4-C934-8D09-A74A8280EAAC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\optionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "SelfDestructIfDuplicateEventSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\EventSystem\\SelfDestructIfDuplicateEventSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSystem\\SelfDestructIfDuplicateEventSystem.cs",
+              "ToolTip": "D:\\Unity\\Mind Loop\\Assets\\Script\\EventSystem\\SelfDestructIfDuplicateEventSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSystem\\SelfDestructIfDuplicateEventSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:44:56.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HintUIController.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\UI\\HintUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\HintUIController.cs",
@@ -78,12 +95,11 @@
               "RelativeToolTip": "Assets\\Script\\UI\\HintUIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:23:35.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T01:23:35.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TemporarySaveManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\TemporarySaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TemporarySaveManager.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TextDebugger.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\TextDebugger.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TextDebugger.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GameSaveData.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\GameSaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameSaveData.cs",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ShardUIManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\ShardUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\ShardUIManager.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ShardCollectible.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Shard\\ShardCollectible.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Shard\\ShardCollectible.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GameUIManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\GameUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameUIManager.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TitleManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\TitleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\TitleManager.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameIntroManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\GameIntroManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameIntroManager.cs",
@@ -188,12 +204,11 @@
               "RelativeToolTip": "Assets\\Script\\Manager\\GameIntroManager.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwDYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:02:40.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T17:02:40.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameManager.cs",
@@ -201,12 +216,11 @@
               "RelativeToolTip": "Assets\\Script\\Manager\\GameManager.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T17:02:39.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T17:02:39.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BloodHoverEffect.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\light\\BloodHoverEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\light\\BloodHoverEffect.cs",
@@ -218,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OptionManager.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\OptionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\OptionManager.cs",
@@ -226,12 +240,11 @@
               "RelativeToolTip": "Assets\\Script\\Manager\\OptionManager.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T15:43:30.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T15:43:30.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PauseMenuLauncher.cs",
               "DocumentMoniker": "D:\\Unity\\Mind Loop\\Assets\\Script\\Manager\\PauseMenuLauncher.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\PauseMenuLauncher.cs",
